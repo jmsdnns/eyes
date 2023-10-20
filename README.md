@@ -46,7 +46,7 @@ The default timeout is 3 seconds.
 ### HELP
 
 ```shell
-$ ./eyes -h
+$ cargo run -- -h
 
 Usage: eyes [OPTIONS] <target>
 
